@@ -4,12 +4,13 @@
 
 ### Itération 1.1 : Installation et Configuration Initiale
 
-Back-end (Symfony)
-
+`Back-end (Symfony)`
 Installation de Symfony :
 
 Utilisez Composer pour installer Symfony : composer create-project symfony/skeleton aliClicker.
+
 Familiarisez-vous avec la structure du projet et les fichiers générés.
+
 Configuration de l'Environnement :
 
 Modifiez le fichier .env pour définir les paramètres de votre environnement, notamment la base de données.
