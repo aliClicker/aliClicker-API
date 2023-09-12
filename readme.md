@@ -5,6 +5,7 @@
 ### Itération 1.1 : Installation et Configuration Initiale
 
 `Back-end (Symfony)`
+
 `Installation de Symfony :`
 
 `Configuration de l'Environnement :`
